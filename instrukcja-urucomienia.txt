@@ -1,0 +1,1 @@
+Cały folder trzeba otworzyć w edytorze jako projekt i włączyć podgląd. 
